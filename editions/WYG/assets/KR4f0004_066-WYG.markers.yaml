@@ -130,6 +130,7 @@ markers:
       ', id: KR4f0004_WYG_066-bkkkrnewl29}
   - {type: line-break, offset: 386, content: '', id: KR4f0004_WYG_066-2b04}
   - {type: punctuation, offset: 397, content: (, id: KR4f0004_WYG_066-bkkpn1}
+  - {type: voice, offset: 397, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 400, content: /, id: KR4f0004_WYG_066-bkkpn2}
   - {type: punctuation, offset: 402, content: ), id: KR4f0004_WYG_066-bkkpn3}
   - {type: 'kr:newline', offset: 409, content: '
@@ -149,6 +150,7 @@ markers:
       ', id: KR4f0004_WYG_066-bkkkrnewl33}
   - {type: line-break, offset: 472, content: '', id: KR4f0004_WYG_066-2b08}
   - {type: punctuation, offset: 477, content: (, id: KR4f0004_WYG_066-bkkpn4}
+  - {type: voice, offset: 477, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 481, content: /, id: KR4f0004_WYG_066-bkkpn5}
   - {type: punctuation, offset: 484, content: ), id: KR4f0004_WYG_066-bkkpn6}
   - {type: 'kr:newline', offset: 488, content: '
@@ -164,6 +166,7 @@ markers:
       ', id: KR4f0004_WYG_066-bkkkrnewl36}
   - {type: line-break, offset: 492, content: '', id: KR4f0004_WYG_066-3a02}
   - {type: punctuation, offset: 495, content: (, id: KR4f0004_WYG_066-bkkpn7}
+  - {type: voice, offset: 495, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 500, content: /, id: KR4f0004_WYG_066-bkkpn8}
   - {type: punctuation, offset: 502, content: ), id: KR4f0004_WYG_066-bkkpn9}
   - {type: 'kr:newline', offset: 515, content: '
@@ -199,6 +202,7 @@ markers:
       ', id: KR4f0004_WYG_066-bkkkrnewl44}
   - {type: line-break, offset: 634, content: '', id: KR4f0004_WYG_066-3b01}
   - {type: punctuation, offset: 636, content: (, id: KR4f0004_WYG_066-bkkpn10}
+  - {type: voice, offset: 636, length: 11, name: note, id: n4}
   - {type: punctuation, offset: 642, content: /, id: KR4f0004_WYG_066-bkkpn11}
   - {type: punctuation, offset: 647, content: ), id: KR4f0004_WYG_066-bkkpn12}
   - {type: 'kr:newline', offset: 660, content: '
@@ -963,4 +967,4 @@ markers:
 
       ', id: KR4f0004_WYG_066-bkkkrnewl232}
   back: []
-hash: sha256:e498042b9f0ac3841121fa59dd5ee021f161f287b68701359387ae724e0d1756
+hash: sha256:0e21182d7d3b36d49d1f8c5886bef048f64de4e93a0e1f4f6d45778ba94770c0

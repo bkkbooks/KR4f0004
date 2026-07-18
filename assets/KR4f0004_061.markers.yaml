@@ -357,6 +357,7 @@ markers:
   - {type: variant, offset: 1144, length: 3, content: 孑焉正, WYG: 􅐐}
   - {type: 'kr:non-cjk', offset: 1145, content: '*', id: KR4f0004_krp_061-bkkkrnonc2}
   - {type: punctuation, offset: 1145, content: (, id: KR4f0004_krp_061-bkkpn1}
+  - {type: voice, offset: 1145, length: 2, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 1146, content: '-', id: KR4f0004_krp_061-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 1147, content: '+?', id: KR4f0004_krp_061-bkkkrnonc4}
   - {type: punctuation, offset: 1147, content: ), id: KR4f0004_krp_061-bkkpn2}
@@ -1057,4 +1058,4 @@ markers:
 
       ', id: KR4f0004_krp_061-bkkkrnewl214}
   back: []
-hash: sha256:9b109595a422180485ae6bf35cbdcabcaf04c84d6d8fd36a7f5048afb0f0cfbb
+hash: sha256:a839960737f6b4b06b302030f93b5805f48616a2a64e09df1eb622f2785839a5
